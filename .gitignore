@@ -1,0 +1,45 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Class/course assignment files
+Fall2025_MGMT571_FinalProject.pdf
+fall-2025-mgmt-571-final-project/
+
+# Original unclean files (replaced by renamed versions)
+"Final Project.pptx"
+submission.csv
+"ROC curve.png"
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Model artifacts (can be large — regenerate by running the notebook)
+*.pkl
+*.joblib
+*.cbm
+
+# Credentials / service accounts
+*.json
+service-account*
+gcp-credentials*
