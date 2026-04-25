@@ -115,4 +115,4 @@ jupyter notebook bankruptcy_prediction_ensemble.ipynb
 ## Author
 
 **Harshil Panchal**  
-[GitHub](https://github.com/harshilpanchal11) · [LinkedIn](https://linkedin.com/in/harshilpanchal)
+[GitHub](https://github.com/harshilpanchal11) · [LinkedIn](https://www.linkedin.com/in/harshil-panchal355/)
